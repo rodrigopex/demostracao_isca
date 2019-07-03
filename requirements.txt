@@ -1,0 +1,2 @@
+progressbar2==3.42.0
+pyserial==3.4
